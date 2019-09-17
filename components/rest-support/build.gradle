@@ -1,5 +1,9 @@
 dependencies {
     compile "org.springframework:spring-web:$springVersion"
     compile "org.springframework:spring-context:$springVersion"
+<<<<<<< HEAD
     compile "org.springframework.cloud:spring-cloud-commons:$springCloudCommonsVersion"
+=======
+    compile "org.springframework.cloud:spring-cloud-commons:$springCloudCommonVersion"
+>>>>>>> c19ee764c9199e70db9f795d9f2f18e143ccc39a
 }
