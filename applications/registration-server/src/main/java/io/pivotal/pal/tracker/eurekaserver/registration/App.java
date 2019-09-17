@@ -7,10 +7,6 @@ import org.springframework.context.annotation.ComponentScan;
 
 import java.util.TimeZone;
 
-<<<<<<< HEAD:applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/App.java
-
-=======
->>>>>>> c19ee764c9199e70db9f795d9f2f18e143ccc39a:applications/registration-server/src/main/java/io/pivotal/pal/tracker/eurekaserver/registration/App.java
 @EnableEurekaClient
 @SpringBootApplication
 @ComponentScan({
