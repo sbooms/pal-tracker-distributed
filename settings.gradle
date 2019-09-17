@@ -6,6 +6,8 @@ include "applications:registration-server"
 include "applications:timesheets-server"
 
 include "platform-services:eureka-server"
+include "platform-services:oauth-server"
+
 
 
 include "components:accounts"
