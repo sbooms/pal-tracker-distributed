@@ -1,6 +1,6 @@
 package test.pivotal.pal.tracker.timesheets;
 
-import io.pivotal.pal.tracker.eurekaserver.timesheets.App;
+import io.pivotal.pal.tracker.timesheets.App;
 import org.junit.Test;
 import org.springframework.web.client.RestTemplate;
 

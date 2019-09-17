@@ -1,6 +1,5 @@
 package io.pivotal.pal.tracker.backlog;
 
-import io.pivotal.pal.tracker.eurekaserver.backlog.ProjectClient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,6 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.client.RestOperations;
 
 import java.util.TimeZone;
+
 
 @EnableEurekaClient
 @SpringBootApplication
